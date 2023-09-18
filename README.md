@@ -1,2 +1,2 @@
-# lito-server
+# LItO
 List of Items to Obtain
